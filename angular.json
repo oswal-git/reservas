@@ -93,6 +93,9 @@
               "browserTarget": "reservas:build:development"
             }
           },
+          "options": {
+            "port": 45850
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
